@@ -1,0 +1,17 @@
+release/glwidget.o
+release/mainwindow.o
+release/main.o
+release/PointCloud.o
+release/GLConvenience.o
+release/QtConvenience.o
+release/Axes.o
+release/Plane.o
+release/Renderer.o
+release/Scene.o
+release/SceneObject.o
+release/camera.o
+release/cube.o
+release/qrc_resources.o
+release/moc_glwidget.o
+release/moc_mainwindow.o
+release/moc_Renderer.o

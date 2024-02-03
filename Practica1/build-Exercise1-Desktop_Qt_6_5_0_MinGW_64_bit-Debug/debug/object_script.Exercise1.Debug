@@ -1,0 +1,17 @@
+debug/glwidget.o
+debug/mainwindow.o
+debug/main.o
+debug/PointCloud.o
+debug/GLConvenience.o
+debug/QtConvenience.o
+debug/Axes.o
+debug/Plane.o
+debug/Renderer.o
+debug/Scene.o
+debug/SceneObject.o
+debug/camera.o
+debug/cube.o
+debug/qrc_resources.o
+debug/moc_glwidget.o
+debug/moc_mainwindow.o
+debug/moc_Renderer.o
